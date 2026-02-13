@@ -47,15 +47,6 @@ Git • NetBeans • REST APIs • Agile workflows
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelson-isidro-jr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-isidro-jr&layout=compact&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ## 💼 Experience
 
 **Software Developer**  
