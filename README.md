@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Nelson D. Isidro Jr.
 
 **Software Developer** based in Gifu, Japan 🇯🇵  
-📧 [isidronelson454@gmail.com](mailto:isidronelson454@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nelson-isidro-jr-a01596326/)  
 
 ![](https://komarev.com/ghpvc/?username=nelson-isidro&style=flat-square&color=blue)
 
